@@ -1,0 +1,5 @@
+*.pcap
+*.pcapng
+*.gun
+*.exe
+*.dll
